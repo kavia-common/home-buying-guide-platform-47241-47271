@@ -1,0 +1,4 @@
+{
+    "command": "python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/home-buying-guide-platform-47241-47271/interactive_home_buying_guide_backend"
+}
